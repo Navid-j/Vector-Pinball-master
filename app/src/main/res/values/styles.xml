@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.VPTheme" parent="@android:style/Theme.NoTitleBar.Fullscreen"></style>
+    <color name="intro_bar">#3949AB</color>
+    <color name="intro_BlueBg">#3949AB</color>
+    <color name="intro_RedBg">#FF1744</color>
+    <color name="intro_doneBtn">#651FFF</color>
+</resources>

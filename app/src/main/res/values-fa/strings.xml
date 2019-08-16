@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">پین بال</string>
+    <string name="btn_buy" translatable="false">خرید</string>
+
+    <string name="independent_flippers_pref_title">باله های مستقل</string>
+    <string name="independent_flippers_pref_summary_on">با لمس یک طرف صفحه آن باله حرکت میکند</string>
+    <string name="independent_flippers_pref_summary_off">حرکت همزمان باله ها با هر لمس</string>
+
+    <string name="high_quality_pref_title">کیفیت اجرا</string>
+    <string name="high_quality_pref_summary_on">سرعت بالاتر اما گرافیک کمتر</string>
+    <string name="high_quality_pref_summary_off">سرعت پایین تر اما گرافیک بهتر</string>
+
+    <string name="sound_pref_title">صدا</string>
+    <string name="music_pref_title">موزیک پس زمینه</string>
+    <string name="show_fps_pref_title">نمایش FPS</string>
+    <string name="zoom_pref_title">بزرگنمایی زمینه</string>
+    <string name="use_opengl_pref_title">OpenGL ارائه با</string>
+
+    <string name="about_text" translatable="false">\nشروع بازی با لمس صفحه
+        , و بالا ها را حرکت دهید.
+         روی نوار امتیاز لمس کنید تا بازی مکث شود.
+        \n\n[TABLE_RULES]\n\nگزینه تنظیمات به شما این امکان را میدهد تا تنظیمات را تغییر دهید:\n- صدا: جلوه های صوتی را فعال و غیرفعال میکند\n- موزیک پس زمینه: موزیک پس زمینه را فعال و یا غیرفعال میکند.\n- باله های مستقل: زمانی که غیرفعال باشد با هر لمس هر دو باله همزمان فعال حرکت میکنند. زمان که فعال باشد با کلیک در سمت چپ باله چپ حرکت میکند, و لمس سمت راست باله سمت راست را حرکت میدهد.\n- بزرگنمایی: زمانی که فعال باشد بزرگنمایی در قسمتی که توپ در آن محل قرار دارد انجام میشود.\n- OpenGL Rendering: برای ترسیم گرافیک استفاده میشود. این عملکرد بسیاری از گوشی هارا تقویت میکند اما در بعضی از دستگاه ها باعث کند شدن بازی میشود \n- نمایش FPS: زمانی که فعال باشد, در بالای صفحه سمت چپ فریم های در ثانیه را نمایش میدهد.\n\n</string>
+
+    <string name="table1_rules" translatable="false">Table Rules:\n- Light all the cyan rollovers in the top or bottom lanes to advance the score multiplier. All points you earn will be multiplied by this amount. Shooting the left ramp will also advance the multiplier.\n- The game starts with ball savers in the left and right outlanes, which disappear when used. Hit all drop targets on the left or right side to restore them.\n- Hitting any group of drop targets will activate the next light in the center of the field. When the large white central light is activated, shoot the left ramp to start multiball.</string>
+    <string name="table2_rules" translatable="false">Table Rules:\n- Light all the cyan rollovers in the bottom lanes to advance the score multiplier. All points you earn will be multiplied by this amount. \n- The game starts with ball savers in the left and right outlanes, which disappear when used. Hit all drop targets on the left or right side to restore them.\n- The circles in the middle of the field keep track of how many times you\'ve hit all the left, upper, and right drop targets. When all of them have been hit at least 3 times, shoot the red bumper in the upper right to start multiball.</string>
+    <string name="table3_rules" translatable="false">Table Rules:\n- Light all the cyan rollovers in the bottom lanes to advance the score multiplier. All points you earn will be multiplied by this amount. \n- The game starts with ball savers in the left and right outlanes, which disappear when used. Hit all drop targets on the left or right side to restore them.\n- Shooting either ramp with turn the bumpers red, and they will change back to blue over several seconds. Hit them during this time for extra points.\n- Turn the middle rings red by hitting the bumpers, and the middle sets of drop targets. When all the rings are red, shoot either ramp to start multiball.</string>
+    <string name="table4_rules" translatable="false">Table Rules:\n- Each bumper increases the score multiplier by 0.01x. Shooting the top drop targets or lighting all the lane rollovers will increase this amount.\n- Shoot all six bumpers to light the center indicators. When all indicators for a row are lit, shoot the right hole to lock the ball for multiball.\n- Multiball starts when you lock three balls. During multiball, the center indicators will light up when a ball crosses over them. Light them all to score a jackpot.\n- The game starts with ball savers in the left and right outlanes, which disappear when used. Hit all drop targets on the left or right side to restore them.</string>
+    <string name="table5_rules" translatable="false">Table Rules:\n- The central circle has twelve points around it, 3 each of 4 colors. Shooting a top ramp will change the color of the ball and allow it to activate the points with matching color.\n- When all 12 points around the circle are activated, hitting the edges of the rotating triangle will remove them. Shoot the target in the middle of the triangle to start multiball.\n- During multiball, light the 12 circle points again to score a jackpot, which increases in value each time.\n- The game starts with ball savers in the left and right outlanes, which disappear when used. Hit all drop targets on the left or right side to restore them.</string>
+
+    <string name="change_table_button_label">تغییر زمینه</string>
+    <string name="help_button_label">راهنما</string>
+    <string name="preferences_button_label">تنظیمات</string>
+    <string name="end_game_button_label">پایان بازی</string>
+    <string name="unlimited_balls_label">توپ های نامحدود</string>
+    <string name="intro1_text" translatable="false">بدون شک با سری بازی های معروف پین بال آشنایی دارید، همان بازی که در ویندوز ایکس پی هم به طور پیش فرض قرار گرفته است و ممکن است با ان خاطراتی داشته باشید</string>
+    <string name="intro2_text" translatable="false">پین بال جزو بازی های داستان دار نیست که به صورت ملایم یا خشن روایت شود اما این دلیل نمیشود که از ارزش بازی کم شود. بازی پین بال ارکید یکی از بهترین بازی های شبیه سازی شده ی پین بال می باشد که با موسیقی متن بسیار زیبا و دلچسب اجرا می شود و مهمترین عنصر بازی یعنی فیزیک و حرکت توپ را به زیبایی و دقت هر چه تمام تر اجرا می کند</string>
+    <string name="intro1_title" translatable="false">پین بال</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+</resources>
